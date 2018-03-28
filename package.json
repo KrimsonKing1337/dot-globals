@@ -1,0 +1,22 @@
+{
+  "name": "dot-globals",
+  "version": "0.0.1",
+  "description": "It's for globals",
+  "homepage": "https://github.com/Kara8ass1337/dot-globals",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kara8ass1337/dot-globals.git"
+  },
+  "main": "getGlobals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "globals",
+    "global",
+    "variables",
+    "local"
+  ],
+  "author": "Shilov Oleg jr.",
+  "license": "MIT"
+}
