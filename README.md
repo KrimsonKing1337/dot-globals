@@ -8,6 +8,8 @@ Install from npm
 
 Create .globals.js file.
 
+Add it to .gitignore.
+
 Set up your global variables, for example:
 
 ```javascript
