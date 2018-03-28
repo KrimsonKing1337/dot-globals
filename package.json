@@ -1,6 +1,6 @@
 {
   "name": "dot-globals",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "It's for globals",
   "homepage": "https://github.com/Kara8ass1337/dot-globals",
   "repository": {
@@ -10,6 +10,9 @@
   "main": "getGlobals.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies" : { 
+    "app-root-path": "^2.0.1"
   },
   "keywords": [
     "globals",
