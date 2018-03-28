@@ -1,5 +1,7 @@
 # dot-globals
 
+It's convenient for local global variables.
+
 ### Usage
 
 Install from npm
