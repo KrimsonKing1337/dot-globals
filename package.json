@@ -1,7 +1,7 @@
 {
   "name": "dot-globals",
-  "version": "0.0.2",
-  "description": "It's for globals",
+  "version": "0.0.5",
+  "description": "It's for local globals variables",
   "homepage": "https://github.com/Kara8ass1337/dot-globals",
   "repository": {
     "type": "git",
