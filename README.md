@@ -15,10 +15,13 @@ Add it to .gitignore.
 Set up your global variables, for example:
 
 ```javascript
+const env = process.env.NODE_ENV;
+const envProduction = (env === 'production');
+
 module.exports = {
     webpackHost: 'localhost',
     webpackPort: '3001',
-    serverUrl: 'http://localhost:3000',
+    serverUrl: envProduction ? 'http://localhost' : 'http://localhost:3000'
 };
 ```
 
